@@ -24,9 +24,6 @@
 | Project | What it explores |
 | --- | --- |
 | [OpenMarble](https://github.com/mohamedsobhi777/OpenMarble) | A spatial-computing experiment that turns a single image into an explorable 3D Gaussian-splat world. |
-| [ENGINEER-1](https://github.com/mohamedsobhi777/ENGINEER-1) | An AI engineering agent that designs physical products through OpenSCAD and an iterative feedback loop. |
-| [Sentinel](https://github.com/mohamedsobhi777/Sentinel) | A multi-agent intelligence system that turns signals from GitHub, Product Hunt, and social platforms into founder briefs. |
-| [Generative Art Independent Study](https://github.com/mohamedsobhi777/COMP4971C---Independent-Study-Project) | An HKUST study using generative deep-learning models to synthesize and examine digital artwork. |
 
 ## Background
 
