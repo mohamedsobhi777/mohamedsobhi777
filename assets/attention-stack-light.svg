@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Sobhy's attention stack</title>
+  <desc id="desc">A progression from reasoning in 2023, through creation and agency, to embodiment in 2026.</desc>
+  <rect x="0.5" y="0.5" width="959" height="199" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="40" y="38" fill="#59636e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" font-weight="700" letter-spacing="2">ATTENTION STACK</text>
+  <path d="M152 92H328M392 92H568M632 92H808" stroke="#afb8c1" stroke-width="2" stroke-linecap="round"/>
+  <path d="M320 86L330 92L320 98M560 86L570 92L560 98M800 86L810 92L800 98" fill="none" stroke="#afb8c1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+    <circle cx="112" cy="92" r="32" fill="#ffffff" stroke="#0969da" stroke-width="2"/>
+    <text x="112" y="97" fill="#0969da" font-size="15" font-weight="700" text-anchor="middle">2023</text>
+    <text x="112" y="143" fill="#1f2328" font-size="15" font-weight="700" text-anchor="middle">Reasoning</text>
+    <text x="112" y="164" fill="#59636e" font-size="12" text-anchor="middle">language models</text>
+
+    <circle cx="352" cy="92" r="32" fill="#ffffff" stroke="#0969da" stroke-width="2"/>
+    <text x="352" y="97" fill="#0969da" font-size="15" font-weight="700" text-anchor="middle">2024</text>
+    <text x="352" y="143" fill="#1f2328" font-size="15" font-weight="700" text-anchor="middle">Creation</text>
+    <text x="352" y="164" fill="#59636e" font-size="12" text-anchor="middle">generative media</text>
+
+    <circle cx="592" cy="92" r="32" fill="#ffffff" stroke="#0969da" stroke-width="2"/>
+    <text x="592" y="97" fill="#0969da" font-size="15" font-weight="700" text-anchor="middle">2025</text>
+    <text x="592" y="143" fill="#1f2328" font-size="15" font-weight="700" text-anchor="middle">Agency</text>
+    <text x="592" y="164" fill="#59636e" font-size="12" text-anchor="middle">tool-using systems</text>
+
+    <circle cx="832" cy="92" r="34" fill="#0969da" stroke="#0969da" stroke-width="2"/>
+    <text x="832" y="97" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">2026</text>
+    <text x="832" y="143" fill="#1f2328" font-size="15" font-weight="700" text-anchor="middle">Embodiment</text>
+    <text x="832" y="164" fill="#59636e" font-size="12" text-anchor="middle">robots + world models</text>
+  </g>
+</svg>
