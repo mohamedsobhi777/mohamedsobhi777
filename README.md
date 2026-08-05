@@ -2,7 +2,7 @@
 
 > I am most drawn to intelligence that can perceive, reason, create, use tools, and act in the physical world. My work spans human-motion recovery, motion retargeting, robot data collection, generative policies, simulation, and deployment.
 
-**Computer Science + AI at HKUST** · Hong Kong
+**CS & Robotics @ HKUST** · Hong Kong
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-sobhy-morsi/) · [X](https://x.com/mohamedsobhi777)
 
